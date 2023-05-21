@@ -1,0 +1,17 @@
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\bin\Debug\net6.0-windows\StreamingMusicService.exe
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\bin\Debug\net6.0-windows\StreamingMusicService.deps.json
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\bin\Debug\net6.0-windows\StreamingMusicService.runtimeconfig.json
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\bin\Debug\net6.0-windows\StreamingMusicService.dll
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\bin\Debug\net6.0-windows\StreamingMusicService.pdb
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\obj\Debug\net6.0-windows\StreamingMusicService.csproj.AssemblyReference.cache
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\obj\Debug\net6.0-windows\StreamingMusicService.Form1.resources
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\obj\Debug\net6.0-windows\StreamingMusicService.csproj.GenerateResource.cache
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\obj\Debug\net6.0-windows\StreamingMusicService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\obj\Debug\net6.0-windows\StreamingMusicService.AssemblyInfoInputs.cache
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\obj\Debug\net6.0-windows\StreamingMusicService.AssemblyInfo.cs
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\obj\Debug\net6.0-windows\StreamingMusicService.csproj.CoreCompileInputs.cache
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\obj\Debug\net6.0-windows\StreamingMusicService.dll
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\obj\Debug\net6.0-windows\refint\StreamingMusicService.dll
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\obj\Debug\net6.0-windows\StreamingMusicService.pdb
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\obj\Debug\net6.0-windows\StreamingMusicService.genruntimeconfig.cache
+C:\Sem1-assignments\StreamingMusicService\StreamingMusicService\obj\Debug\net6.0-windows\ref\StreamingMusicService.dll
